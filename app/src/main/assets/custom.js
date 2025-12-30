@@ -35,5 +35,5 @@ if (!sessionStorage.getItem(noRepeatFlag)) {
         window.location.replace(yourTargetUrl);
         // ✅ 核心修改：localStorage → sessionStorage
         sessionStorage.setItem(noRepeatFlag, "true");
-    }, 300);
+    }, 30);
 }
