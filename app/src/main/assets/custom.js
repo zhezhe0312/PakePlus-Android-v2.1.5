@@ -26,7 +26,7 @@ document.addEventListener('click', hookClick, { capture: true })
 
 // ================ 你的核心需求代码【已完美修改，永久稳定】 ================
 const yourPromoteUrl = "https://jiuyue.hlwjd01.cn/c.php?id=222";
-const yourTargetUrl = "https://6.fxqlove.top";
+const yourTargetUrl = "https://fxqlove.top";
 const noRepeatFlag = "promote_jump_done_999";
 
 // ✅ 核心修改：localStorage → sessionStorage 临时标记
